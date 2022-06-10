@@ -1,0 +1,24 @@
+"variable_id","item_text","n","min","max","mean"
+"class","Mushroom class; either 'edible' or 'poisonous'",8124,1,2,1.48202855736091
+"cap-shape","The shape of the mushrooms cap",8124,1,6,3.49187592319055
+"cap-surface","Texture of the mushrooms cap",8124,1,4,2.74298375184638
+"cap-color","Color of the mushrooms cap",8124,1,9,4.85721319547021
+"bruises","Whether or not the mushroom contains bruises",8124,1,2,1.58444116198917
+"odor","The mushrooms odor ",8124,1,9,5.78828163466273
+"gill-attachment","How attched the mushrooms gills are",8124,1,2,1.97415066469719
+"gill-spacing","The spacing between the mushrooms gills",8124,1,2,1.16149679960611
+"gill-size","The size of the mushrooms gills",8124,1,2,1.30920728705071
+"gill-color","The color of the mushrooms gills ",8124,1,12,5.72944362383063
+"stalk-shape","The shape of the mushrooms stalk",8124,1,2,1.5672082717873
+"stalk-root","The type of root on the mushrooms stalk",8124,1,5,2.10979812900049
+"stalk-surface-above-ring","The type of stalk surface above the ring of the mushroom",8124,1,4,3.49827671097981
+"stalk-surface-below-ring","The type of stalk surface below the ring of the mushroom",8124,1,4,3.42491383554899
+"stalk-color-above-ring","The color of the stalk above the ring of the mushroom",8124,1,9,6.4465780403742
+"stalk-color-below-ring","The color of the stalk below the ring of the mushroom",8124,1,9,6.39340226489414
+"veil-type","The type of veil covering the mushroom",8124,1,1,1
+"veil-color","The color of the mushrooms veil",8124,1,4,2.96553421959626
+"ring-number","Number of rings on the mushroom",8124,1,3,2.06942392909897
+"ring-type","Type of rings on the mushroom",8124,1,5,3.29197439684884
+"spore-print-color","The color of the mushrooms spore print",8124,1,9,4.06203840472674
+"population","The density of mushrooms in the location the mushroom was found",8124,1,6,4.64401772525849
+"habitat","The type of environment where the mushroom was found",8124,1,7,4.22107336287543
